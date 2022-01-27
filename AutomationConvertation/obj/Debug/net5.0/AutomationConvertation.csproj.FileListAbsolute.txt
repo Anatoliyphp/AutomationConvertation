@@ -1,0 +1,16 @@
+C:\Users\Анатолий\RiderProjects\AutomationConvertation\AutomationConvertation\bin\Debug\net5.0\AutomationConvertation.exe
+C:\Users\Анатолий\RiderProjects\AutomationConvertation\AutomationConvertation\bin\Debug\net5.0\AutomationConvertation.deps.json
+C:\Users\Анатолий\RiderProjects\AutomationConvertation\AutomationConvertation\bin\Debug\net5.0\AutomationConvertation.runtimeconfig.json
+C:\Users\Анатолий\RiderProjects\AutomationConvertation\AutomationConvertation\bin\Debug\net5.0\AutomationConvertation.runtimeconfig.dev.json
+C:\Users\Анатолий\RiderProjects\AutomationConvertation\AutomationConvertation\bin\Debug\net5.0\AutomationConvertation.dll
+C:\Users\Анатолий\RiderProjects\AutomationConvertation\AutomationConvertation\bin\Debug\net5.0\ref\AutomationConvertation.dll
+C:\Users\Анатолий\RiderProjects\AutomationConvertation\AutomationConvertation\bin\Debug\net5.0\AutomationConvertation.pdb
+C:\Users\Анатолий\RiderProjects\AutomationConvertation\AutomationConvertation\obj\Debug\net5.0\AutomationConvertation.csproj.AssemblyReference.cache
+C:\Users\Анатолий\RiderProjects\AutomationConvertation\AutomationConvertation\obj\Debug\net5.0\AutomationConvertation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анатолий\RiderProjects\AutomationConvertation\AutomationConvertation\obj\Debug\net5.0\AutomationConvertation.AssemblyInfoInputs.cache
+C:\Users\Анатолий\RiderProjects\AutomationConvertation\AutomationConvertation\obj\Debug\net5.0\AutomationConvertation.AssemblyInfo.cs
+C:\Users\Анатолий\RiderProjects\AutomationConvertation\AutomationConvertation\obj\Debug\net5.0\AutomationConvertation.csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\RiderProjects\AutomationConvertation\AutomationConvertation\obj\Debug\net5.0\AutomationConvertation.dll
+C:\Users\Анатолий\RiderProjects\AutomationConvertation\AutomationConvertation\obj\Debug\net5.0\ref\AutomationConvertation.dll
+C:\Users\Анатолий\RiderProjects\AutomationConvertation\AutomationConvertation\obj\Debug\net5.0\AutomationConvertation.pdb
+C:\Users\Анатолий\RiderProjects\AutomationConvertation\AutomationConvertation\obj\Debug\net5.0\AutomationConvertation.genruntimeconfig.cache
